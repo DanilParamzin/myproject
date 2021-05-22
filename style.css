@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background: #373AF5;
+    border-radius: 8px;
+}
+
+
+
+.head{
+    border: 0px;
+  
+}
+
+.container{
+    position: absolute;
+    margin: 0px auto;
+    width: auto;
+    min-height: 277px;
+    z-index: 3;
+}
+
+.head__top {
+    padding: 65px 212px 0px 500px;
+    margin: 0;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 102px;
+    color: #FFFFFF;
+    max-width: 122px;
+}
+
+.head__bot{
+    margin: 0px;
+    padding: 0px 500px 0px 859px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 102px;
+    max-width: 122px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.v1 {
+    position: absolute;
+    width: 572.17px;
+    height: 730.5px;
+    right: 0px;
+    top: -78px;
+    
+    /* Critic */
+    
+}
+
+
+.v2 { 
+    position: absolute;
+    width: 766.56px;
+    height: 1130px;
+    right: 0px;
+    top: -2px;
+
+}
+
+
+.v3{
+    position: absolute;
+width: 596.56px;
+height: 812.5px;
+left: -74px;
+top: 360px;
+
+}
+
+
+.v4{
+    position: absolute;
+    width: 506px;
+    height: 223.72px;
+    left: 0px;
+    top: 958px;
+}
+
+.v5 {
+    position: absolute;
+    width: 496px;
+    height: 294.17px;
+    left: 0px;
+    top: 0px;
+}
+
+
+.v6{
+    position: absolute;
+    width: 820px;
+    height: 381px;
+    left: 0px;
+    top: 801px;
+}
+
+
+
+
+
+/* block 7 days */
+
+
+
+.block__1{
+    position: absolute;
+    width: 660px;
+    height: 524px;
+    left: 41px;
+    top: 337px;
+    z-index: 3;
+
+/* #Base weak */
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(4, 5, 73, 0.25), 14px 14px 20px rgba(5, 6, 114, 0.2);
+    border-radius: 8px;
+}
+
+
+
+
+.text_head1{
+    position: absolute;
+    height: 32px;
+    left: 58px;
+    top: 50px;
+    margin: 0%;
+
+/* H1 */
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+/* identical to box height, or 100% */
+
+
+/* Base strong */
+
+    color: #2C2D76;
+}
+
+
+
+.submenu1{
+    position: absolute;
+    width: 252px;
+    height: 48px;
+    left: 58px;
+    top: 114px;
+
+/* Secondary 0.06 */
+
+    background: rgba(128, 131, 164, 0.06);
+/* Secondary 0.2 */
+
+    border: 2px solid rgba(128, 131, 164, 0.2);
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+
+.icon1{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 250px;
+    top: 226px;
+    border: dashed #8083A4;
+    
+    /* #Base weak */
+    
+    background: #fff;
+}
+
+
+.text_bot{
+    position: absolute;
+    width: 438px;
+    height: 24px;
+    left: 111px;
+    top: 410px;
+}
+
+
+.block__text1{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+/* identical to box height, or 150% */
+
+    text-align: center;
+
+/* Secondary */
+
+    color: #8083A4;
+}
+
+
+
+
+
+/* block  Forecast for a Date in the Past*/
+
+
+.sildebar2{
+    font-size: 0%;
+}
+
+.block__2{
+    position: absolute;
+    width: 660px;
+    height: 524px;
+    left: 735px;
+    top: 337px;
+    z-index: 3;
+
+/* #Base weak */
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(4, 5, 73, 0.25), 14px 14px 20px rgba(5, 6, 114, 0.2);
+    border-radius: 8px;
+}
+
+.text_head2{
+    position: absolute;
+    width: 463px;
+    
+    left: 58px;
+    top: 50px;
+    margin: 0%;
+
+/* H1 */
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 32px;
+/* identical to box height, or 100% */
+
+
+/* Base strong */
+
+    color: #2C2D76;
+}
+
+
+
+
+.submenu2{
+    /* Rectangle 364 */
+
+    position: absolute;
+    width: 252px;
+    height: 48px;
+    right: 58px;
+    top: 114px;
+
+/* Secondary 0.06 */
+    background: rgba(128, 131, 164, 0.06);
+/* Secondary 0.2 */
+    border: 2px solid rgba(128, 131, 164, 0.2);
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+
+.icon2{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 250px;
+    top: 226px;
+
+}
+
+
+
+
+.block__text2{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+/* identical to box height, or 150% */
+
+    text-align: center;
+
+/* Secondary */
+
+    color: #8083A4;
+}
+
+
+
+  /* C ЛЮБОВЬЮ ОТ MERCURY DEVELOPMENT */
+
+
+.footer_text{
+    position: absolute;
+    width: 280px;
+    height: 18px;
+    left: 580px;
+    top: 1060px;
+
+/* Meta */
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+/* identical to box height, or 129% */
+
+
+/* #Base weak */
+
+    color: #FFFFFF;
+
+    opacity: 0.6;
+}
